@@ -4,3 +4,7 @@ Xuất-phát từ một chia-sẻ của một người bạn, mình viết đo�
 http://vietsciences.free.fr/vietnam/tiengviet/cachgachnoitrongchuviet.htm
 
 Nguồn dữ-liệu được lấy từ trang từ-điển http://www.informatik.uni-leipzig.de/~duc/Dict/. Và các từ cần gạch ngang mới.
+
+Trang-điện-tử thử-nghiệm có tại http://vietdash-tienpp.rhcloud.com/.
+
+Nếu có đóng góp về từ cần gạch ngang xin cứ tự nhiên!
