@@ -8,4 +8,3 @@ Nguồn dữ-liệu được lấy từ trang từ-điển http://www.informatik
 Trang-điện-tử thử-nghiệm có tại http://vietdash-tienpp.rhcloud.com/.
 
 Nếu có đóng góp về từ cần gạch ngang xin cứ tự nhiên!
-x
